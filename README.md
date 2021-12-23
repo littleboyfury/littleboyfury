@@ -12,6 +12,7 @@
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?logo=Node.js&style=flat&logoColor=fff"/>
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&style=flat&logoColor=fff"/>
   <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=Vue.js&style=flat&logoColor=fff"/>
+  <img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?logo=npm&style=flat&logoColor=fff"/>
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?logo=Redis&style=flat&logoColor=fff"/>
   <img alt="Egg" src="https://img.shields.io/badge/-Egg.js-000000?logo=Egg&style=flat"/>
 </p>
