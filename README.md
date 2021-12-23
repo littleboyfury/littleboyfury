@@ -2,7 +2,7 @@
 <p align="center">
   <samp>
     <a href="https://www.skyfury.com.cn">SKY&nbsp</a>
-    <a href="https://www.skyfury.com.cn">HOME&nbsp</a>
+    <a href="https://fourioc.com/">HOME&nbsp</a>
   </samp>
 </p>
 
