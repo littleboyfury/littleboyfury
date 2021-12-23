@@ -12,7 +12,7 @@
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?logo=Node.js&style=flat&logoColor=fff"/>
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&style=flat&logoColor=fff"/>
   <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=Vue.js&style=flat&logoColor=fff"/>
-  <a href="https://www.npmjs.com/~skyfury"><img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?logo=npm&style=flat&logoColor=fff"/></a>
+  <a href="https://www.npmjs.com/~skyfury" target="_blank"><img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?logo=npm&style=flat&logoColor=fff"/></a>
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?logo=Redis&style=flat&logoColor=fff"/>
   <img alt="Egg" src="https://img.shields.io/badge/-Egg.js-000000?logo=Egg&style=flat"/>
 </p>
@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.strava.com/athletes/skyfury"><img alt="Strava" src="https://img.shields.io/badge/-Strava-FC4C02?logo=Strava&style=flat&logoColor=fff"/></a>
+  <a href="https://www.strava.com/athletes/skyfury" target="_blank"><img alt="Strava" src="https://img.shields.io/badge/-Strava-FC4C02?logo=Strava&style=flat&logoColor=fff"/></a>
   <img alt="Garmin" src="https://img.shields.io/badge/-Garmin-000?logo=Garmin&style=flat&logoColor=fff"/>
   <img alt="Apple" src="https://img.shields.io/badge/-Apple-000000?logo=Apple&style=flat&logoColor=fff"/>
   <img alt="Sony" src="https://img.shields.io/badge/-Sony-ffffff?logo=Sony&style=flat&logoColor=000"/>
