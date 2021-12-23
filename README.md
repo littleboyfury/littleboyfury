@@ -1,57 +1,32 @@
 <h1 align="center">Hi 👋, I'm SKYFURY</h1>
-<h3 align="center">Workplace Rookie</h3>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-             alt="docker" width="40" height="40"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-             alt="git" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-       target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-             alt="javascript" width="40" height="40"/>
-    </a>
-    <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"
-             alt="kubernetes" width="40" height="40"/>
-    </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-             alt="linux" width="40" height="40"/>
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-             alt="mongodb" width="40" height="40"/>
-    </a>
-    <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
-             alt="nginx" width="40" height="40"/>
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-             alt="nodejs" width="40" height="40"/>
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-             alt="python" width="40" height="40"/>
-    </a>
-    <a href="https://redis.io" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
-             alt="redis" width="40" height="40"/>
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-             alt="typescript" width="40" height="40"/>
-    </a>
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
-             alt="vuejs" width="40" height="40"/>
-    </a>
+<p align="center">
+  <samp>
+    <a href="https://www.skyfury.com.cn">SKY&nbsp</a>
+    <a href="https://www.skyfury.com.cn">HOME&nbsp</a>
+  </samp>
 </p>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=littleboyfury&show_icons=true&theme=cobalt)
+<p align="center">
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&style=flat&logoColor=fff"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&style=flat&logoColor=fff"/>
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?logo=Node.js&style=flat&logoColor=fff"/>
+  <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=Vue.js&style=flat&logoColor=fff"/>
+  <img alt="Egg" src="https://img.shields.io/badge/-Egg.js-000000?logo=Egg&style=flat"/>
+</p>
+
+<p align="center">
+  <img alt="kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=Kubernetes&style=flat&logoColor=fff"/>
+  <img alt="docker" src="https://img.shields.io/badge/-Docker-2496ED?logo=Docker&style=flat&logoColor=fff"/>
+  <img alt="OpenStack" src="https://img.shields.io/badge/-OpenStack-ED1944?logo=OpenStack&style=flat&logoColor=fff"/>
+  <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?logo=Ubuntu&style=flat&logoColor=fff"/>
+  <img alt="Sony" src="https://img.shields.io/badge/-Sony-ffffff?logo=Sony&style=flat&logoColor=000"/>
+  <img alt="Koa" src="https://img.shields.io/badge/-Koa-33333D?logo=Koa&style=flat&logoColor=fff"/>
+  <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-009639?logo=NGINX&style=flat&logoColor=fff"/>
+  <img alt="Apple" src="https://img.shields.io/badge/-Apple-000000?logo=Apple&style=flat&logoColor=fff"/>
+</p>
+
+
+
+![skyfury's github stats](https://github-readme-stats.vercel.app/api?username=littleboyfury&show_icons=true&theme=cobalt)
+
+
