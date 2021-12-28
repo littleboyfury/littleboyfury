@@ -42,6 +42,6 @@
 </p>
 
 
-![skyfury's github stats](https://github-readme-stats.vercel.app/api?username=littleboyfury&show_icons=true&theme=cobalt)
+[comment]: <> (![skyfury's github stats]&#40;https://github-readme-stats.vercel.app/api?username=littleboyfury&show_icons=true&theme=cobalt&#41;)
 
 
