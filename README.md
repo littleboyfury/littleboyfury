@@ -8,10 +8,8 @@
 
 <p align="center">
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&style=flat&logoColor=fff"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&style=flat&logoColor=fff"/>
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?logo=Node.js&style=flat&logoColor=fff"/>
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&style=flat&logoColor=fff"/>
-  <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=Vue.js&style=flat&logoColor=fff"/>
   <a href="https://www.npmjs.com/~skyfury" target="_blank"><img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?logo=npm&style=flat&logoColor=fff"/></a>
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?logo=Redis&style=flat&logoColor=fff"/>
   <img alt="Egg" src="https://img.shields.io/badge/-Egg.js-000000?logo=Egg&style=flat"/>
@@ -22,8 +20,11 @@
   <img alt="kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=Kubernetes&style=flat&logoColor=fff"/>
   <img alt="docker" src="https://img.shields.io/badge/-Docker-2496ED?logo=Docker&style=flat&logoColor=fff"/>
   <img alt="OpenStack" src="https://img.shields.io/badge/-OpenStack-ED1944?logo=OpenStack&style=flat&logoColor=fff"/>
+  <img alt="Gulp" src="https://img.shields.io/badge/-Gulp-CF4647?logo=gulp&style=flat&logoColor=fff"/>
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=flat&logoColor=000"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&style=flat&logoColor=fff"/>
   <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?logo=NGINX&style=flat&logoColor=fff"/>
+  <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=Vue.js&style=flat&logoColor=fff"/>
 </p>
 
 <p align="center">
