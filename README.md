@@ -19,8 +19,6 @@
   <img alt="Elasticsearch" src="https://img.shields.io/badge/-Elasticsearch-005571?logo=Elasticsearch&style=flat&logoColor=fff"/>
   <img alt="kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=Kubernetes&style=flat&logoColor=fff"/>
   <img alt="docker" src="https://img.shields.io/badge/-Docker-2496ED?logo=Docker&style=flat&logoColor=fff"/>
-  <img alt="OpenStack" src="https://img.shields.io/badge/-OpenStack-ED1944?logo=OpenStack&style=flat&logoColor=fff"/>
-  <img alt="Gulp" src="https://img.shields.io/badge/-Gulp-CF4647?logo=gulp&style=flat&logoColor=fff"/>
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=flat&logoColor=000"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&style=flat&logoColor=fff"/>
   <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?logo=NGINX&style=flat&logoColor=fff"/>
@@ -30,9 +28,7 @@
 <p align="center">
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?logo=Visual Studio Code&style=flat&logoColor=fff"/>
   <img alt="Vim" src="https://img.shields.io/badge/-Vim-019733?logo=Vim&style=flat&logoColor=fff"/>
-  <img alt="Neovim" src="https://img.shields.io/badge/-Neovim-57A143?logo=Neovim&style=flat&logoColor=fff"/>
   <img alt="WebStorm" src="https://img.shields.io/badge/-WebStorm-000000?logo=WebStorm&style=flat&logoColor=fff"/>
-  <img alt="iTerm2" src="https://img.shields.io/badge/-iTerm2-000000?logo=iTerm2&style=flat&logoColor=fff"/>
 </p>
 
 <p align="center">
